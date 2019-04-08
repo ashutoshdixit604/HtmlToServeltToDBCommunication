@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<<<<<<< HEAD
+<h1>hllo </h1>
+<h1>amar Khar</h1>
+<h1>ashutosh dixit</h1>
+
+=======
+<h1 style = 'color:green; text-align:center'>Marriage Eligibility Portal</h1>
+<form action ="http://localhost:3030/MerriageAppGitHub/murl" method ="GET" style=text-align:center>
+Candidate Name<input type = "text" name = "pname"/>
+<br>Candidate Age<input type = "text" name= "page"/>
+<br><input type = "radio" name = "gender" value = "male" checked/>Male
+<input type = "radio" name = "gender" value = "female"/>Female
+<br><input type = "submit" value="register"/>
+</form>
+>>>>>>> branch 'master' of https://github.com/ashutoshdixit604/MarriageApp.git
+</body>
+</html>
